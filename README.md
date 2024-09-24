@@ -14,5 +14,6 @@
 1) dataset을 data 폴더에 저장
 2) python train.py 명령을 사용하여 모델 학습
 3) python test.py 명령을 사용하여 train.py를 통해 나온 모델을 지정하여 예측 진행
+   <br>
 → 2의 결과는 best_models 및 Result 폴더에서 확인 가능하며 3의 결과는 csv 파일로 예측값 확인
 
