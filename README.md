@@ -1,5 +1,4 @@
 ## 분자 혼합물 간의 냄새 유사도 예측 딥러닝 모델
-(SW 등록 심사 진행 중 24.09~)
 
 <img width="646" alt="스크린샷 2024-09-24 오전 11 51 40" src="https://github.com/user-attachments/assets/aeabb529-6fa7-4da6-ba1d-569096e8aeb4">
 <br>
